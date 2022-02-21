@@ -1,0 +1,13 @@
+{
+  "Hello": "Welcome to learnChilango api docs",
+  "/": "api docs",
+  "/signup": "signup",
+  "/signout": "signout",
+  "/users": "get all users",
+  "/user/": "get user, update user && delete user",
+  "/posts": "get all user posts",
+  "/post/new/:userID": "create new post && get posts by user",
+  "/post/:postId": "update post && delete post",
+  "/chilango": "get all phrases && create new phrase",
+  "/chilango/:postId": "update phrase && delete phrase"
+}
