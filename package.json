@@ -4,8 +4,13 @@
   "description": "backend for learnChilango",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "keywords": [
+    "node",
+    "api"
+  ],
   "author": "daniel knowles",
   "license": "ISC",
   "dependencies": {
