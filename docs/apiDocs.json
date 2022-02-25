@@ -1,10 +1,11 @@
 {
   "Hello": "Welcome to learnChilango api docs",
   "/": "api docs",
+  "/signin": "signin",
   "/signup": "signup",
   "/signout": "signout",
   "/users": "get all users",
-  "/user/": "get user, update user && delete user",
+  "/user/:userID": "get user, update user && delete user",
   "/posts": "get all user posts",
   "/post/new/:userID": "create new post && get posts by user",
   "/post/:postId": "update post && delete post",
